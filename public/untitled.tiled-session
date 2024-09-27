@@ -1,0 +1,83 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/ha.nguyen/workspace/projects/carrot-seeds/public/untitled.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "/Users/ha.nguyen/workspace/projects/carrot-seeds/public/untitled.tmx": {
+            "scale": 2.8697916666666665,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 99.83303085299457,
+                "y": 108.54446460980039
+            }
+        },
+        "dt-box.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 23,
+            "scaleInEditor": 1
+        },
+        "new-map.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "spr_tileset_sunnysideworld_forest_32px.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tutorial-banner.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 8,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 26.9375,
+                "y": 12
+            }
+        },
+        "untitled.tmx": {
+            "scale": 4,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 66.125,
+                "y": 56.125
+            }
+        }
+    },
+    "last.imagePath": "/Users/ha.nguyen/Downloads/Sunnyside_World_ASSET_PACK_V2.1/Sunnyside_World_Assets/UI/9slice_box_white",
+    "map.height": 12,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 12,
+    "openFiles": [
+        "new-map.tsx",
+        "untitled.tmx",
+        "spr_tileset_sunnysideworld_forest_32px.tsx",
+        "tutorial-banner.tmx",
+        "dt-box.tsx",
+        "/Users/ha.nguyen/workspace/projects/carrot-seeds/public/untitled.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "new-map.tsx",
+        "untitled.tmx",
+        "spr_tileset_sunnysideworld_forest_32px.tsx",
+        "tutorial-banner.tmx",
+        "dt-box.tsx",
+        "/Users/ha.nguyen/workspace/projects/carrot-seeds/public/untitled.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 1
+}
